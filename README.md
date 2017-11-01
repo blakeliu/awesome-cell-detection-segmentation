@@ -10,7 +10,9 @@ Nucleus/cell detection and segmentation on microscopy images and digital patholo
 ###  CNN
 
 ###  Random_forest
-
+####  Mitosis detection
+*  Learning-based mitotic cell detection in histopathological images. 2012 [[paper](https://hciweb.iwr.uni-heidelberg.de/sites/default/files/node/files/2081404558/sommer_12_learning-based.pdf)]
+  *  method: random forest classify object and non-object, and svm classify last.
 ### Auto-encoder
 
 ### CRF
