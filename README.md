@@ -19,7 +19,8 @@ Nucleus/cell detection and segmentation on microscopy images and digital patholo
 
 ###  2.Random_forest
 *  Learning-based mitotic cell detection in histopathological images. 2012 [[paper](https://hciweb.iwr.uni-heidelberg.de/sites/default/files/node/files/2081404558/sommer_12_learning-based.pdf)]
-  * method: random forest classify object and non-object, and svm classify last.
+> * method: random forest classify object and non-object, and svm classify last.
+
 *  You Should Use Regression to Detect Cells. Philipp KainzMartin Urschler.In MICCAI. 2015.[[paper](https://pdfs.semanticscholar.org/99da/f0b8c7a3880d34acff7bc7b370fc7e8a4cf1.pdf)][[code](https://github.com/pkainz/MICCAI2015)]
 > * Methd: ACF feature, sliding window, random trees regression.
 ### 3.SVM
