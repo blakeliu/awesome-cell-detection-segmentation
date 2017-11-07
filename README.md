@@ -59,10 +59,6 @@ Nucleus/cell detection and segmentation on microscopy images and digital patholo
 *  Automated Nucleus and Cytoplasm Segmentation of Overlapping Cervical Cells. 2013[[paper](https://www.researchgate.net/publication/260127853_Automated_Nucleus_and_Cytoplasm_Segmentation_of_Overlapping_Cervical_Cells9)][[code](https://github.com/luzhi/miccai2013)]
 *  An Improved Joint Optimization of Multiple Level Set Functions for the Segmentation of Overlapping Cervical Cells. 2015[[paper](https://www.researchgate.net/publication/270966398_An_Improved_Joint_Optimization_of_Multiple_Level_Set_Functions_for_the_Segmentation_of_Overlapping_Cervical_Cells)][[code](https://github.com/luzhi/cellsegmentation_TIP2015)]
 
-##  Reference
-*  https://github.com/gokceneraslan/awesome-deepbio
-*  http://vision.lbl.gov/Publications/
-
 ##  Datasets
 *  https://grand-challenge.org/All_Challenges/
 *  https://github.com/beamandrew/medical-data
@@ -71,3 +67,7 @@ Nucleus/cell detection and segmentation on microscopy images and digital patholo
 ## SoftWare
 *  CellProfiler[link(http://cellprofiler.org/)]
 *  CellProfiler Analyst[link(http://cellprofiler.org/cp-analyst/)]
+
+##  Reference
+*  https://github.com/gokceneraslan/awesome-deepbio
+*  http://vision.lbl.gov/Publications/
