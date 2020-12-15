@@ -18,6 +18,16 @@ Nucleus/cell detection and segmentation on microscopy images and digital patholo
 *  Accurate classification of protein subcellular localization from high throughput microscopy images using deep learning. 2016[[paper](https://www.biorxiv.org/content/biorxiv/early/2016/04/28/050757.full.pdf)]
 *  A Guided Spatial Transformer Network for Histology Cell Differentiation. 2017[[paper](https://www.researchgate.net/publication/318721270_A_Guided_Spatial_Transformer_Network_for_Histology_Cell_Differentiation)]
 *  Transitioning between Convolutional and Fully Connected Layers in Neural Networks. 2017[[paper](https://arxiv.org/pdf/1707.05743.pdf)]
+*  DeepPap: Deep Convolutional Networks for Cervical Cell Classification.2018 [[paper](https://arxiv.org/abs/1801.08616)]
+####  Histopathology
+* Classification of Breast Cancer Histology using Deep Learning[[paper](https://arxiv.org/abs/1802.08080)]
+* Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach [[paper](https://arxiv.org/abs/1802.02212)]
+* Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis [[paper](https://arxiv.org/abs/1802.00752)[code](https://github.com/alexander-rakhlin/ICIAR2018)]
+* An End-to-End Deep Learning Histochemical Scoring System for Breast Cancer Tissue Microarray[[paper](https://arxiv.org/abs/1801.06288)]
+* Deep Learning with Permutation-invariant Operator for Multi-instance Histopathology Classification[[paper](https://arxiv.org/abs/1712.00310)]
+* Two-Stage Convolutional Neural Network for Breast Cancer Histology Image Classification. 2018[[paper](https://arxiv.org/abs/1803.04054v1)[code](https://github.com/ImagingLab/ICIAR2018)]
+* Context-Aware Convolutional Neural Network for Grading of Colorectal Cancer Histology Images.2019 [[paper](https://arxiv.org/abs/1907.09478)[code](https://tia-lab.github.io/Context-Aware-CNN/#code)]
+
 ##  Detection
 ###  1.CNN
 *  Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks. miccai 2013[[paper](http://people.idsia.ch/~ciresan/data/miccai2013.pdf)][[code](https://github.com/znck/mitosis-detection.git)]
@@ -55,9 +65,26 @@ Nucleus/cell detection and segmentation on microscopy images and digital patholo
 *  Cell Segmentation Proposal Network For Microscopy Image Analysis. 2016[[paper](https://users.aalto.fi/~kannalj1/publications/dlmia2016.pdf)]
 *  DCAN Deep Contour-Aware Networks for Accurate Gland Segmentation. CVPR 2016[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_DCAN_Deep_Contour-Aware_CVPR_2016_paper.pdf)]
 *  Constrained Deep Weak Supervision for Histopathology Image Segmentation. 2017[[paper](https://arxiv.org/pdf/1701.00794.pdf)]
+*  Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation. 2017 [[paper](https://arxiv.org/abs/1706.04737)]
+*  TandemNet: Distilling Knowledge from Medical Images Using Diagnostic Reports as Optional Semantic References.2017 [[paper](https://arxiv.org/abs/1708.03070)]
+*  Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images [[paper](https://www.biorxiv.org/content/10.1101/335216v4) [code](https://github.com/carpenterlab/unet4nuclei)]
+*  MILD-Net: Minimal Information Loss Dilated Network for Gland Instance Segmentation in Colon Histology Images.2018 [[paper](https://arxiv.org/abs/1806.01963)]
+
 ###  2.Level Set
 *  Automated Nucleus and Cytoplasm Segmentation of Overlapping Cervical Cells. 2013[[paper](https://www.researchgate.net/publication/260127853_Automated_Nucleus_and_Cytoplasm_Segmentation_of_Overlapping_Cervical_Cells9)][[code](https://github.com/luzhi/miccai2013)]
 *  An Improved Joint Optimization of Multiple Level Set Functions for the Segmentation of Overlapping Cervical Cells. 2015[[paper](https://www.researchgate.net/publication/270966398_An_Improved_Joint_Optimization_of_Multiple_Level_Set_Functions_for_the_Segmentation_of_Overlapping_Cervical_Cells)][[code](https://github.com/luzhi/cellsegmentation_TIP2015)]
+
+## Feature
+* Dense Steerable Filter CNNs for Exploiting Rotational Symmetry in Histology Images.2020 [[paper](https://arxiv.org/abs/2004.03037)[code](https://github.com/simongraham/dsf-cnn)]
+
+## GAN
+* Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks. 2017 [[paper](https://arxiv.org/abs/1711.11317)]
+
+## Super-Resolution
+* Learning to Become an Expert: Deep Networks Applied To Super-Resolution Microscopy.2018 [[paper](https://arxiv.org/abs/1803.10806)]
+
+## Reconstruct
+* Reconstructing cell cycle and disease progression using deep learning [[paper](https://www.biorxiv.org/content/10.1101/081364v2)]
 
 ##  Datasets
 *  https://grand-challenge.org/All_Challenges/
